@@ -31,5 +31,5 @@ $ cat proxy_list.txt
 ```
 
 # Donate with Bitcoin
-![alt text](https://blockr.io/api/v1/address/Qr/17MeoRJ6mrMU9KMBVLMjKcX6SDdAfhM7oT)
+![alt text](http://i.imgur.com/EaRUjUN.png)
   - 17MeoRJ6mrMU9KMBVLMjKcX6SDdAfhM7oT 
