@@ -29,3 +29,6 @@ $ cat proxy_list.txt
 13.12.123.23:8888
 14.16.23.53:8080
 ```
+# Donation
+![alt text](https://blockchain.info/Resources/buttons/donate_64.png)
+  - 17MeoRJ6mrMU9KMBVLMjKcX6SDdAfhM7oT 
