@@ -21,7 +21,7 @@ Usage:
 $ ./instavon.py -u targetusername -p proxy_list.txt -w wordlist.txt -t 20
 ```
 
-Proxy list should look like this:
+Proxy list should look like this (WORKS ONLY HTTPS PROXIES):
 ```sh
 $ cat proxy_list.txt
 123.123.23.23:8080
