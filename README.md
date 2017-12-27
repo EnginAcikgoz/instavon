@@ -30,6 +30,3 @@ $ cat proxy_list.txt
 14.16.23.53:8080
 ```
 
-# Donate with Bitcoin
-![alt text](http://i.imgur.com/EaRUjUN.png)
-  - 17MeoRJ6mrMU9KMBVLMjKcX6SDdAfhM7oT 
