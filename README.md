@@ -30,3 +30,20 @@ $ cat proxy_list.txt
 14.16.23.53:8080
 ```
 
+
+
+
+Donations
+
+xlm:
+GB2FKGPTK4FIRWBZ76AOHIGAOGYUMICBUWIZBGBFESSQIOA7XZNMT4RS
+
+btc:
+bc1q22c5mpjy3g2lpmlvrx42ddtm7s83mqutkx6v09
+
+ltc:
+MNgauMUTf4E1BLhyrFg1DZ7zMKfw4WdbDJ
+
+doge:
+D6DMCeYhCxgRtwkPWuTqdqkjhPP4X5m1Cb
+
